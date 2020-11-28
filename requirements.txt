@@ -1,0 +1,5 @@
+joblib==0.13.2
+Click==7.0
+matplotlib==3.1.1
+Keras==2.3.1
+numpy==1.17.3
